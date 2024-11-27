@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projedot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+460e2fd288290a0406acb90d63d79ac1a5b32b56")]
 [assembly: System.Reflection.AssemblyProductAttribute("projedot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projedot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
